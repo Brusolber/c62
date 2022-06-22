@@ -1,0 +1,27 @@
+#App{
+background-color: aliceblue;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#game{
+    background-color: lightcoral;
+}
+
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
